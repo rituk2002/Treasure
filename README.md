@@ -10,7 +10,7 @@
     
     2. Second Clue - The Second clue consist of a text data where the input data will be compared , the task is to complete the lyrics of the song by telling the              missing word which will then lead towards the next clue.
     
-    3. Third  Clue - In the Third clue user need to identify the given image and answer accordingly and then proceed accordingly.
+    3. Third  Clue - In the Third clue user need to identify the given image and answer accordingly and then proceed accordingly .This clue also contains a 'DEAD_END". 
     
     4. Fourth Clue - Almost same as that of third clue, here user had to identify the video and then move forward.
     
